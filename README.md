@@ -4,4 +4,4 @@ Lineage tracking analysis-edit_1_final is a jupyter notebook with commented work
 
 For now the simulateur notebook is very sparsly commented, but will allow you to simulate your serial dilution barcode evolution experiment in a changing or steady enviromnent, given some ideas of the DFE in your experimental environment and the time series of the changes.
 
-I you have questions or ideas to make the code better, you can find me here : 
+I you have questions or ideas to make the code better, you can find me here : https://ceda.unibas.ch/
