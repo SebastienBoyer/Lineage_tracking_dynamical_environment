@@ -2,7 +2,7 @@
 
 ## Disclaimer : 
 
-### The codes presented here are just my own implementation. This is not a ready to go pipeline. Understand it, make your own opinion, test it. It is mentionned and explained in the supplementary info of this paper : https://www.biorxiv.org/content/10.1101/724419v2.supplementary-material and  https://doi.org/10.1371/journal.pgen.1009314. The supplementary information are provided here in th epdf file called `SI-plos-biorxiv.pdf` But since my experiments were not designed for the usage of that code, results from that analysis are not part of any claim nor analysis in the main paper. Yet the pipeline seems to do a "good"(you decide if it is good enough for you) job on simulated data. 
+### The codes presented here are just my own implementation. This is not a ready to go pipeline. Understand it, make your own opinion, test it. It is mentionned and explained in the supplementary info of this paper : https://www.biorxiv.org/content/10.1101/724419v2.supplementary-material and  https://doi.org/10.1371/journal.pgen.1009314. The supplementary information are provided here in the pdf file called `SI-plos-biorxiv.pdf` But since my experiments were not designed for the usage of that code, results from that analysis are not part of any claim nor analysis in the main paper. Yet the pipeline seems to do a "good"(you decide if it is good enough for you) job on simulated data. 
 
 Lineage tracking analysis-edit_1_final is a jupyter notebook with commented workflow. I redid the error on the estimator part, worked with pandas, multiprocess when possible, and annotated the code in a more in depth manner than previously. I aslo provided dataset from my simulation code to demonstrate the analysis code.
 
